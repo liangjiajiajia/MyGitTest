@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         Log.e("TAG", "onCreate: 2");
         Log.e("TAG", "onCreate: 3");
         Log.e("TAG", "onCreate: 4");
+        Log.e("TAG", "onCreate: 4 新分支");
     }
 }
