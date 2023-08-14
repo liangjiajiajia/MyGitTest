@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "dddds04", Toast.LENGTH_SHORT).show();
 
         Log.e("TAG", "onCreate: ");
+        Log.e("TAG", "onCreate: 2");
+        Log.e("TAG", "onCreate: 3");
     }
 }
